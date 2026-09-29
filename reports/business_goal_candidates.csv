@@ -1,0 +1,5 @@
+opportunity,description,observed_18_month_cost,observed_quarterly_cost,10_percent_savings,15_percent_savings,20_percent_savings,25_percent_savings
+Refund leakage,Reduce refund amount,5992919.0,998819.8333333334,99881.98333333334,149822.975,199763.96666666667,249704.95833333334
+Replacement cost,Reduce replacement volume/cost,2176680.0,362780.0,36278.0,54417.0,72556.0,90695.0
+SLA breach credits,Reduce first-response SLA breaches,367850.0,61308.333333333336,6130.833333333334,9196.25,12261.666666666668,15327.083333333334
+Internal transfer cost,Reduce internal hand-offs,356545.0,59424.166666666664,5942.416666666667,8913.625,11884.833333333334,14856.041666666666

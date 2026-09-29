@@ -1,0 +1,5 @@
+opportunity,metric,count,estimated_cost_inr,basis
+Refunds,Refunded tickets,2105,5992919.0,Exported refund amount
+Replacements,Replacement tickets,1202,2176680.0,Product unit cost + ₹340 logistics
+SLA breach credits,First-response breaches,1051,367850.0,₹350 automatic credit per breach
+Internal transfers,Team hand-offs,1169,356545.0,₹305 per internal transfer

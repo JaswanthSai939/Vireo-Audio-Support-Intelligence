@@ -1,0 +1,67 @@
+{
+    "dataset_sizes": {
+        "tickets": 12528,
+        "agents": 44,
+        "customers": 9500,
+        "orders": 15000,
+        "products": 14
+    },
+    "tickets": {
+        "raw_rows": 12528,
+        "unique_ticket_ids": 11875,
+        "duplicate_ticket_ids": 653,
+        "duplicate_ticket_rows": 1306,
+        "earliest_created_at": "2025-01-01T09:48:00",
+        "latest_created_at": "2026-06-30T23:29:00"
+    },
+    "missing_values": {
+        "ticket_id": 0,
+        "created_at": 0,
+        "first_response_at": 0,
+        "resolved_at": 644,
+        "status": 0,
+        "channel": 0,
+        "customer_id": 0,
+        "product_sku": 0,
+        "category": 0,
+        "priority": 0,
+        "agent_id": 0,
+        "csat_score": 4856,
+        "customer_message": 0,
+        "agent_notes": 0
+    },
+    "referential_integrity": {
+        "unknown_customer_ids": 0,
+        "unknown_product_skus": 0,
+        "unknown_agent_ids": 0,
+        "unknown_order_ids": 0
+    },
+    "status_values": [
+        "closed",
+        "open",
+        "pending",
+        "resolved"
+    ],
+    "channel_values": [
+        "chat",
+        "email",
+        "social",
+        "voice"
+    ],
+    "source_systems": [
+        "helpdesk",
+        "legacy_fd"
+    ],
+    "csat": {
+        "missing_or_blank": 4856,
+        "zero_values": 2083,
+        "valid_1_to_5": 5589
+    },
+    "analysis_decisions": [
+        "Deduplicate ticket IDs before calculating ticket-level metrics.",
+        "Investigate duplicated IDs because the support documentation describes legacy migration and re-imports.",
+        "Treat legacy CSAT value 0 as no response rather than a zero satisfaction score.",
+        "Exclude missing CSAT responses from CSAT averages.",
+        "Validate joins against customers, products, agents and orders before business analysis."
+    ]
+}

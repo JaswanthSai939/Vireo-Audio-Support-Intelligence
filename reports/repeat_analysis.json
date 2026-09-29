@@ -1,0 +1,11 @@
+{
+    "total_unique_tickets": 11875,
+    "repeat_candidates": 363,
+    "repeat_candidate_rate_percent": 3.056842105263158,
+    "strong_repeat_candidates": 356,
+    "strong_repeat_candidate_rate_percent": 2.997894736842105,
+    "average_csat_repeat_candidates": 2.7202380952380953,
+    "average_csat_non_repeat": 3.334836306606548,
+    "transfer_rate_repeat_candidates_percent": 12.07865168539326,
+    "transfer_rate_non_repeat_percent": 8.655265213994271
+}

@@ -1,0 +1,286 @@
+﻿ticket_id,customer_id,created_at,previous_ticket_id,previous_created_at,days_since_previous_contact,previous_similarity,similarity_band,product_sku,previous_product_sku,category,previous_category,channel,previous_channel,customer_message,previous_customer_message,repeat_language,review_label,review_notes,reviewer,review_date
+TK-244236,C103109,2025-08-29 13:35:00,TK-244025,2025-08-22 11:53:00,7.070833333333334,1.0000000000000002,very_high,VA-HP-ST2,VA-HP-ST2,Billing & Payments,Billing & Payments,chat,chat,payment went through but I got no order id,payment went through but I got no order id,False,,,,
+TK-253481,C108631,2026-05-20 11:05:00,TK-253144,2026-05-11 16:55:00,8.756944444444445,1.0000000000000002,very_high,VA-SW-NX2,VA-SW-NX2,Other,Other,chat,email,screen is unresponsive. VR903299,screen is unresponsive,False,,,,
+TK-242758,C101676,2025-06-23 23:22:00,TK-242517,2025-06-10 16:11:00,13.299305555555556,0.9019304293504216,very_high,VA-HP-ST3,VA-HP-ST3,Delivery & Shipping,Delivery & Shipping,chat,email,"I haven't received my order
+VR886234","I haven't received my order
+VR886234
+please resolve asap",False,,,,
+TK-251243,C102179,2026-03-15 22:02:00,TK-250909,2026-03-06 14:58:00,9.294444444444444,0.7591983816094507,very_high,VA-SP-ORB,VA-SP-ORB,Billing & Payments,Billing & Payments,chat,chat,"once more, same complaint., the festive offer vanished when i clicked pay, vr889088, please help",the festive offer vanished when i clicked pay - can someone fix this?,False,,,,
+TK-242781,C106640,2025-06-25 01:14:00,TK-242563,2025-06-13 15:14:00,11.416666666666666,0.7607085797179121,very_high,VA-EB-AIR,VA-EB-AIR,Audio Quality,Audio Quality,chat,chat,"to the vireo customer care team,
+
+i am writing with reference to my order of airlite placed on may 21. mic not working on calls. i have checked mic permissions. i request you to kindly arrange a replacement.
+
+sincerely,
+kavya shah","to the vireo customer care team,
+
+i am writing with reference to my order of airlite placed on 21/05.  people cannot hear me on calls. i have checked mic permissions. i request you to kindly arrange a replacement.
+
+yours faithfully,
+kavya shah",False,,,,
+TK-244778,C101549,2025-09-15 18:16:00,TK-244530,2025-09-07 11:52:00,8.266666666666667,0.7753168238677322,very_high,VA-SW-NX1,VA-SW-NX1,Connectivity,Connectivity,email,social,Same problem again. not pairing w/ my phone,not pairing w/ my phone,True,,,,
+TK-253933,C109091,2026-06-02 07:19:00,TK-253085,2026-05-10 03:05:00,23.176388888888887,0.8036162920062248,very_high,VA-SW-FIT,VA-SW-FIT,Delivery & Shipping,Delivery & Shipping,social,social,"Dear Sir/Madam,
+
+Yet again. I am writing with reference to my order of the fit band (VR898205) placed on 30/04. Order status stuck on shipped since 30/04. I have checked the tracking page daily. I request you to look into this matter at the earliest.
+
+Yours faithfully,
+Shreya Mukherjee
+Dehradun","Dear Sir/Madam,
+
+I am writing with reference to my order of the fit band (VR898205) placed on 30/04. Order status stuck on shipped since 30/04. I have checked with neighbours. I request you to process a refund to my original payment method.
+
+Sincerely,
+Shreya Mukherjee
+Dehradun",True,,,,
+TK-252419,C103988,2026-04-18 22:38:00,TK-251548,2026-03-25 11:38:00,24.45833333333333,0.8024133064987049,very_high,VA-EB-PL2,VA-EB-PL2,Charging & Battery,Charging & Battery,email,email,"My earlier ticket got closed without a fix.
+plugging in does nothing on the case, cable works on my phone
+VR883011
+i want my money back","plugging in does nothing on the case, cable works on my phone. VR883011",True,,,,
+TK-246164,C109252,2025-10-26 16:23:00,TK-245872,2025-10-19 11:43:00,7.194444444444445,0.9329846847779611,very_high,VA-SW-FIT,VA-SW-FIT,Product Enquiry,Billing & Payments,chat,chat,"Once more, same complaint. - I was promised a discount on the call, invoice shows none - VR888677","I was promised a discount on the call, invoice shows none, VR888677, please advise",False,,,,
+TK-253715,C104664,2026-05-27 06:14:00,TK-253146,2026-05-11 17:01:00,15.550694444444444,0.7542639243392019,very_high,VA-SW-NX2,VA-SW-NX2,Warranty & Repair,Warranty & Repair,chat,chat,"dear sir/madam,
+
+third time now. i am writing with reference to my order of my nexa 2 watch (vr908186) placed on 07/02. the little metal pin fell out and now it won't stay on my wrist. i have bought a third-party strap. i request you to process a refund to my original payment method.
+
+yours faithfully,
+faisal das
+delhi","dear sir/madam,
+
+i am writing with reference to my order of my nexa 2 watch (vr908186) placed on february 07. the little metal pin fell out and now it won't stay on my wrist. i have bought a third-party strap. i request you to loook innto this matter at the earliest.
+
+yours faithfully,
+faisal das",False,,,,
+TK-241588,C107435,2025-04-20 09:55:00,TK-241223,2025-03-29 01:57:00,22.33194444444445,0.9142813540427605,very_high,VA-EB-PL2,VA-EB-PL2,Warranty & Repair,Warranty & Repair,email,chat,"hello
+warranty claim pending for 9 days
+??","hello
+warranty claim pending for 7 days
+pulse 2",False,,,,
+TK-242817,C102455,2025-06-27 12:38:00,TK-242505,2025-06-10 08:08:00,17.1875,0.8755184158201488,very_high,VA-SW-NX2,VA-SW-NX2,Other,Other,chat,chat,"hello
+my phone just doesn't see it in the list anymore
+help","hello
+my phone just doesn't see it in the list anymore",False,,,,
+TK-244511,C101712,2025-09-06 21:42:00,TK-244043,2025-08-22 18:51:00,15.11875,0.622025858325396,high,VA-SP-MINI,VA-SP-MINI,Delivery & Shipping,Delivery & Shipping,chat,social,"my order has not been delivered yet, vr888850","helo
+my order has not been delivered yet
+orbit mini vr888850
+??",False,,,,
+TK-245168,C100938,2025-09-29 01:49:00,TK-244274,2025-08-30 19:56:00,29.24513888888889,0.669740598051808,high,VA-SP-MINI,VA-SP-MINI,Other,Billing & Payments,chat,chat,"Yet again.
+paid via UPI, amount deducted, no order confirmation
+VR883306
+neeed this sorted this week","PAID VIA UPI, AMOUNT DEDUCTED, NO ORDER CONFIRMATION",True,,,,
+TK-245088,C108578,2025-09-26 09:57:00,TK-244921,2025-09-20 19:19:00,5.609722222222223,0.623709002097565,high,VA-EB-PL2,VA-EB-PL2,Billing & Payments,Other,chat,chat,"Hello, I bought pulse 2 buds on 27-08-2025. Two entries of Rs 3499 on my statement for one pair of earbuds. I waited a week. Nothing changed. Need this sorted this week. Awaiting response, Manpreet Patil",Pathetic experience honestly.  I bought Pulse 2 on 27-08-2025. two entries of Rs 3499 on my statement for one pair of earbuds. I already waited a week. Fix this or I am posting on twitter.,True,,,,
+TK-243373,C106058,2025-07-28 08:44:00,TK-243294,2025-07-23 21:38:00,4.4625,0.6277325405517571,high,VA-SW-NX2,VA-SW-NX2,Returns & Refunds,Returns & Refunds,voice,chat,Still not fixed after your last 'resolution'.  - still waiting for my refund,still waiting for my refund,False,,,,
+TK-241479,C103457,2025-04-14 02:05:00,TK-241320,2025-04-03 10:28:00,10.650694444444444,0.6532393033477377,high,VA-SW-NX2,VA-SW-NX2,Delivery & Shipping,Delivery & Shipping,social,email,Following up on my earlier complaint - nothing has changed.  screen has a crack before I even switched it on,screen has a crack before I even switched it on,True,,,,
+TK-248764,C104389,2026-01-01 20:57:00,TK-247703,2025-12-03 16:30:00,29.185416666666665,0.6123558576973244,high,VA-EB-PL2,VA-EB-PL2,Connectivity,Connectivity,chat,chat,"hii
+connection drops constantly
+the pulse 2 earbuds
+help","hello
+connection drops constantly
+the pulse 2 earbuds
+hello??",False,,,,
+TK-253433,C102811,2026-05-18 20:23:00,TK-252509,2026-04-20 23:58:00,27.850694444444443,0.6350277110811164,high,VA-EB-PL2,VA-EB-PL2,Connectivity,Connectivity,chat,email,"This was supposedly sorted by yoour team last time.
+Product: Pulse 2
+Order: VR904832
+Purchased: 19-03-2026
+Issue: it goes silent for a second every few minutes and comes back
+Tried: turned off wifi
+Expected: resolution","Product: Pulse 2
+Order: VR904832
+Purchased: 19 Mar
+Issue: it goes silent for a second every few minutes and comes back
+Tried: reset both devices
+Expected: refund",False,,,,
+TK-251607,C102850,2026-03-26 22:22:00,TK-251090,2026-03-11 19:51:00,15.104861111111113,0.6789960755985003,high,VA-HP-ST3,VA-HP-ST3,Audio Quality,Audio Quality,chat,chat,"Product: the strata 3
+Order: VR891708
+Purchased: 28/02
+Issue: a hiss that wasn't there when I bought it
+Tried: tried different apps
+Expected: fix","Product: Strata 3
+Order: VR891708
+Purchased: 28/02
+Issue: microphone is very low on the Strata 3
+Tried: tried different apps
+Expected: resolution",False,,,,
+TK-240639,C104381,2025-02-20 15:38:00,TK-240553,2025-02-13 19:21:00,6.845138888888889,0.6869371706372931,high,VA-AC-CH65,VA-AC-CH65,Delivery & Shipping,Delivery & Shipping,email,email,"Hi team, Bought 65W charger around 08-02-2025 from vireo.in. My order has not been delivered yet. Please call me on my registered number. Thank u, Farah","Hi team, I bought 65W charger on 08-02-2025. Received damaged product. Can someone fix this? Thank you, Farah",False,,,,
+TK-247224,C100656,2025-11-22 08:44:00,TK-246415,2025-11-01 22:22:00,20.431944444444444,0.6469417028782027,high,VA-EB-PL2,VA-EB-PL2,Billing & Payments,Billing & Payments,email,chat,"hey
+the festive offer vanished when i clicked pay","hii
+same issue as before, it came back after 2 weeks.
+the festive offer vanished when i clicked pay
+pls reply",False,,,,
+TK-253006,C107443,2026-05-07 00:25:00,TK-252016,2026-04-07 14:41:00,29.405555555555555,0.6869241623454889,high,VA-SW-NX2,VA-SW-NX2,Delivery & Shipping,Delivery & Shipping,chat,chat,"package not delivered even after 17 days, VR897514, i want my money back",package not delivered even after 6 days - VR897514 - how do i get this fixed?,False,,,,
+TK-247440,C106615,2025-11-27 18:36:00,TK-247287,2025-11-23 20:17:00,3.9298611111111112,0.6024013135217465,high,VA-HP-ST3,VA-HP-ST3,Returns & Refunds,Delivery & Shipping,social,social,"Product: my Strata 3 headphones
+Order: VR901899
+Purchased: November 14
+Issue: the return was accepted but the amount is nowhere in my account
+Tried: emailed twice
+Expected: refund","Product: my Strata 3 headphones
+Order: VR901899
+Purchased: November 14
+Issue: received the wrong item
+Tried: checked the invoice
+Expected: resolution",False,,,,
+TK-244625,C104506,2025-09-10 12:18:00,TK-244204,2025-08-28 10:21:00,13.08125,0.5080612727629932,medium,VA-EB-AIR,VA-EB-AIR,Account & Login,Delivery & Shipping,chat,email,"Product: airlite earbuds
+Order: VR882399
+Purchased: August 18
+Issue: the login code never arrives, tried 6 times
+Tried: tried 5 times
+Expected: replacement","Product: the AirLite buds
+Order: VR882399
+Purchased: August 18
+Issue: order status stuck on shipped since August 18
+Tried: called the courier
+Expected: resolution",False,,,,
+TK-245455,C102883,2025-10-08 02:57:00,TK-245244,2025-10-01 16:26:00,6.438194444444444,0.4737255682405883,medium,VA-SP-MINI,VA-SP-MINI,Connectivity,Connectivity,email,email,"hello, my earlier ticket got closed without a fix.  i bought orbit mini on 24-04-2025. wifi setup fails at the last step. i tried 2.4ghz. nothing changed. can someone fix this?","dear sir/madam,
+
+i am writing with reference to my order of orbit mini placed on 24/04. wifi setup fails at the last step. i have tried 2.4ghz. i request you to provide a resolution within 3 working days.
+
+regards,
+swati tiwari",True,,,,
+TK-253636,C104129,2026-05-24 14:49:00,TK-253322,2026-05-16 01:00:00,8.575694444444444,0.5790022293803017,medium,VA-SP-MINI,VA-SP-MINI,Connectivity,Connectivity,email,email,"Hi team, orbit mini purchased last month, order VR893957. Keeps losing my phone if I walk to the other room. What do I do now?","Hi team,
+I bought orbit mini on 25 Apr.  Keeps losing my phone if I walk to the other room.
+Kindly look into it.",False,,,,
+TK-249153,C107977,2026-01-12 23:22:00,TK-248554,2025-12-26 16:37:00,17.28125,0.5231794440766603,medium,VA-SW-NX2,VA-SW-NX2,Returns & Refunds,Returns & Refunds,chat,chat,"ordered nexa 2 in december.  the app said pickup today, that was on 10-12-2025. i rescheduled pickup twice. i want my money back. regards,","this is very disappointing.  got the neax 2 from vireo.in 2 weeks ago. the app said pickup today, that was on 10-12-2025. i alerady rescheduled pickup twice. this is the last timme i buy from you",False,,,,
+TK-250690,C101140,2026-02-27 19:09:00,TK-250453,2026-02-21 14:00:00,6.214583333333334,0.5437811873505799,medium,VA-EB-PL2,VA-EB-PL2,Account & Login,Returns & Refunds,chat,email,"Product: my Pulse 2
+Order: VR905981
+Purchased: 30-01-2026
+Issue: cannot login to my account
+Tried: tried on another browser
+Expected: refund","Product: the Pulse 2 earbuds
+Order: VR905981
+Purchased: 30-01-2026
+Issue: packed the box a week ago & it's still here
+Tried: rescheduled pickup twice
+Expected: callback",False,,,,
+TK-243346,C101839,2025-07-26 14:59:00,TK-243037,2025-07-11 11:50:00,15.13125,0.4515563068343982,medium,VA-SW-NX2,VA-SW-NX2,Billing & Payments,Product Enquiry,email,email,"Product: my Nexa 2 watch
+Order: VR880280
+Purchased: 13 Jul
+Issue: payment was deducted but no order was created
+Tried: waited 24 hours
+Expected: refund","Product: my Nexa 2 watch
+Order: VR880280
+Purchased: July 13
+Issue: can I connect two my Nexa 2 watch together
+Expected: fix",False,,,,
+TK-252821,C109158,2026-05-01 01:30:00,TK-252694,2026-04-26 19:35:00,4.246527777777778,0.4948876940509225,medium,VA-EB-PL1,VA-EB-PL1,Audio Quality,Audio Quality,social,social,"Same issue as before, it came back after 2 weeks.
+Product: pulse 1
+Order: VR897325
+Purchased: 18-04-2026
+Issue: distorted audio at high volume
+Tried: changed EQ
+Expected: refund","Pulse earbuds purchased a month ago, order VR897325. Distorted audio at high volume. I tried different apps. What do I do now?",True,,,,
+TK-249797,C104196,2026-01-31 19:35:00,TK-248779,2026-01-02 13:08:00,29.26875,0.5712027023651248,medium,VA-SW-NX2,VA-SW-NX2,Other,Other,chat,chat,"Product: my Nexa 2 watch
+Order: VR886940
+Purchased: 28/10
+Issue: claim number RMA84443, anyone alive there?
+Tried: called service centre
+Expected: replacement","Product: Nexa 2
+Order: VR886940
+Purchased: 28 Oct
+Issue: no update on my repair
+Tried: called service centre
+Expected: resolution",False,,,,
+TK-247081,C108464,2025-11-19 04:01:00,TK-246644,2025-11-07 16:26:00,11.48263888888889,0.4722950275259561,medium,VA-EB-PL2,VA-EB-PL2,Audio Quality,Audio Quality,chat,email,"hello vireo,
+this is regarding my pulse 2. people cannot hear me on calls.
+waiting for your reply.
+awaiting response aarav shinde","hello vireo,
+this is regarding pulse2. microphone is very low on the pulse2.
+i want my money back.
+awaiting response, aarav shinde",False,,,,
+TK-248544,C105242,2025-12-26 12:57:00,TK-247953,2025-12-09 21:12:00,16.65625,0.4880276237900594,medium,VA-SW-NX1,VA-SW-NX1,Other,Other,email,email,"Dear Sir/Madam,
+
+Yet again. I am writing with reference to my order of Nexa watch placed on 05/10. The band snapped while I was putting it on this morning. I have tried to fix pin. I request you to provide a resolution within 3 working days.
+
+Sincerely,
+Sunita Bhatia",the band snapped while I was putting it on this morning. what do i do now?,True,,,,
+TK-242039,C109300,2025-05-15 06:15:00,TK-241833,2025-05-03 13:21:00,11.704166666666667,0.5494567694504151,medium,VA-NB-ARC,VA-NB-ARC,Connectivity,Account & Login,email,social,"Hello Vireo, my Arc purchased last week, order VR888173. Not pariing with my phone. How do I get thsi fixed? Regards Harpreet Ansari","Hello Vireo, Order VR888173 (Arc neckband).  Invoice not downloading. What do I do now? Regards, Harpreet Ansari",False,,,,
+TK-240284,C102016,2025-01-25 12:11:00,TK-240092,2025-01-08 19:11:00,16.708333333333332,0.4555800543821826,medium,VA-AC-CBL,VA-AC-CBL,Billing & Payments,Billing & Payments,social,social,"hello
+your agent said it was fixed. it is not.
+promo code shows invalid
+the cable
+pls reply","got braided cable from amazon last month. promo code shows invalid.
+waiting for your reply.",False,,,,
+TK-243183,C103836,2025-07-19 08:13:00,TK-243021,2025-07-10 10:44:00,8.895138888888889,0.3860048393540147,low,VA-SW-NX2,VA-SW-NX2,Other,Delivery & Shipping,chat,chat,"Product: Nexa 2
+Order: VR904124
+Purchased: 30-06-2025
+Issue: is Nexa 2 compatible with my TV
+Expected: replacement","Product: the Nexa 2
+Order: VR904124
+Purchased: June 30
+Issue: got a different colour than ordered
+Tried: rechecked my order
+Expected: refund",False,,,,
+TK-243937,C102720,2025-08-18 18:14:00,TK-243903,2025-08-17 15:57:00,1.0951388888888889,0.3608336431489984,low,VA-EB-PL2,VA-EB-PL2,Account & Login,Warranty & Repair,email,email,"Hi team,
+This is regarding Pulse2. LOCKED OUT OF MY OWN ACCOUNT SINCE 2 WEEKS AGO.
+I TRIED 5 TIMES.
+PLEASE RESOLVE ASAP.
+AWAITING RESPONSE DANIEL YADAV","Hi team, This is regarding Pulse 2. The charging case is not charging. I tried wireless charging pad. How do I get this fixed? Awaiting response, Daniel Yadav",False,,,,
+TK-241349,C102832,2025-04-04 19:40:00,TK-240856,2025-03-07 10:33:00,28.37986111111111,0.3588832810464197,low,VA-EB-PL1,VA-EB-PL1,App & Firmware,Charging & Battery,email,email,"Product: teh Pulse buds
+Order: VR906446
+Purchased: 03/02
+Issue: since the last update the app just shows a white screen
+Tried: cleared cache
+Expected: callback","Product: the Pulse buds
+Order: VR906446
+Purchased: February 03
+Issue: battery draining eevn when not in use
+Tried: turned off always-on display
+Expected: callback",False,,,,
+TK-249016,C101327,2026-01-09 16:42:00,TK-248862,2026-01-04 16:18:00,5.016666666666667,0.3925128511183365,low,VA-EB-PL2,VA-EB-PL2,Product Enquiry,Returns & Refunds,social,chat,"Dear Sir/Madam,
+
+I am writing with reference to my order of my Pulse 2 (VR888494) placed on 04/01.  Wlil this survive a shower. I requets you to prrovide a resolution within 3 working days.
+
+Regards,
+Manish George","Dear Sir/Madam,
+
+I am writing with reference to my ordeer of pules 2 buds (VR888494) placed on 04-01-2026. The parcel looked like it was kicked here from the warehouse, and the unt has a crack. I have rfeused nothing as I didn't notice till later. I request you to process a refund to my original payment method.
+
+Sincerely,
+Manish George",False,,,,
+TK-245159,C101115,2025-09-28 17:39:00,TK-244902,2025-09-20 06:24:00,8.46875,0.3927964202210977,low,VA-SP-MINI,VA-SP-MINI,Connectivity,Product Enquiry,chat,chat,"Product: the mini speaker
+Order: VR903951
+Purchased: 13 Sep
+Issue: cannot connect the speaker to wifi
+Tried: tried hotspot
+Expected: resolution","Product: the mini speaker
+Order: VR903951
+Purchased: September 13
+Issue: my dad has an old Nokia, will the watch app run
+Expected: fix",False,,,,
+TK-248403,C105258,2025-12-22 13:49:00,TK-247944,2025-12-09 18:52:00,12.789583333333333,0.437367104117055,low,VA-EB-PL2,VA-EB-PL2,Charging & Battery,Charging & Battery,email,email,"dear sir/madam,
+
+i am writing with reference to my order of the pulse 2 earbuds placed on october 07.  app shows the left at 0 percent no matter how long its in the case. i have tried another charger. i request you to provide a resolution within 3 working days.
+
+yours faithfully,
+aadhya bose","dear sir/madam,
+
+i am writing with reference to my order of pulse 2 placed on october 07. right side works perfectly, left one just does not wake up. i have tried another charger. i request you to look into this matter at the earliest.
+
+regards,
+aadhya bose",False,,,,
+TK-248717,C102925,2025-12-31 12:55:00,TK-248583,2025-12-27 14:43:00,3.925,0.3537752909013131,low,VA-EB-PL2,VA-EB-PL2,Returns & Refunds,Other,chat,chat,"pickup scheduled but no one showed up
+vr899693
+what do i do now?",cancel order vr899693,False,,,,
+TK-240124,C105056,2025-01-11 18:47:00,TK-240104,2025-01-10 09:59:00,1.3666666666666667,0.4274926292166077,low,VA-EB-AIR,VA-EB-AIR,Billing & Payments,Delivery & Shipping,email,voice,"hi vireo support, order vr891825 (airlite). i was charged twice for one order. what do i do now?","[IVR transcript] hi vireo support, airlite purchased around diwali, order vr891825. the courier marked it delivered but nobody in my house got anything. i want my money back.",False,,,,
+TK-242932,C109315,2025-07-03 22:28:00,TK-242540,2025-06-12 09:32:00,21.538888888888888,0.3818526384853447,low,VA-SW-NX2,VA-SW-NX2,Warranty & Repair,Warranty & Repair,social,voice,"Hi Vireo support, Third time now.  Nexa 2 purchased around Diwali, order VR902184. What is the status of my warranty claim. I emailed twice. Honestly regretting this purchase. Waiting for your reply. Please revert, Imran","[IVR transcript] Hi Vireo support, Order VR902184 (the Nexa 2).  Claim number RMA93052, anyone alive there?. I emailed twice. Nothig changed. Very poor quality. Waiting for your reply. Please revert,",False,,,,
+TK-244254,C102656,2025-08-29 22:50:00,TK-243978,2025-08-20 14:25:00,9.350694444444445,0.3663136287240636,low,VA-EB-PL1,VA-EB-PL1,Billing & Payments,Other,chat,chat,"this is very disappointing.  bought the pulse buds around 19/08 from vireo.in. need the bill with my firm's gstin on it. i already tried different browser. i want a replacement or refund, nothing else.","namaste, i bought the pulse buds on 19/08. need to change delivery address. please help.",False,,,,
+TK-253387,C106527,2026-05-17 18:01:00,TK-252838,2026-05-01 15:20:00,16.111805555555556,0.4324477161951227,low,VA-EB-PL2,VA-EB-PL2,Other,Product Enquiry,chat,chat,"dear sir/madam,
+
+i am writing with reference to my order of the pulse 2 earbuds (vr901725) placed on 10/05. i haven't received my order. i have checked the tracking page daily. i request you to process a refund to my original payment method.
+
+yours faithfully,
+tanvi sen","dear sir/madam,
+
+i am writing with reference to my order of pulse2 (vr901725) placed on 10 may.  my dad has an old nokia, will the watch app run. i request you to look into this matter at the earliest.
+
+sincerely,
+tanvi sen",False,,,,
+TK-244792,C104032,2025-09-16 08:53:00,TK-244184,2025-08-27 17:47:00,19.629166666666663,0.4040637772261397,low,VA-EB-PL2,VA-EB-PL2,Delivery & Shipping,Delivery & Shipping,email,chat,"This is the third time.
+Product: Pulse2
+Order: VR891627
+Purchased: August 22
+Issue: it has been 18 days and I have nothing in hand
+Tried: checked with neighbours
+Expected: fix","Product: my Pulse 2
+Purchased: August 22
+Issue: my order has not been delivered yet
+Tried: called the courier
+Expected: callback",False,,,,
+TK-240823,C107091,2025-03-05 14:24:00,TK-240820,2025-03-05 12:09:00,0.09375,0.3608793651089814,low,VA-SW-FIT,VA-SW-FIT,Returns & Refunds,Billing & Payments,chat,chat,"Hi Vireo support, Ordered the fit band a month ago. I have been sitting at home for 3 days waiting for your courier. I REESCHEDULED PICKUP TWICE. Really frustrating. What do I do now?","Hi Vireo support, Ordered the fit band last month. Please share invoice with GST number. I tried different browser. Noting changed. Waiting for your reply.",False,,,,
+TK-251402,C107911,2026-03-20 14:36:00,TK-251260,2026-03-16 09:27:00,4.214583333333334,0.7002261449612439,high,VA-NB-ARC,VA-NB-ARC,Charging & Battery,Charging & Battery,chat,chat,"Really frustrating. Third time now. Bought Arc neckband around 01-10-2025 from Amazon. battery drains very fast, barely lasts 2 hours. I already updated the app. Refund. Now.","Really frustrating.  Bought Arc neckband around 01-10-2025 from Amazon. battery drains very fast, barely lasts 2 hours. I already fully charged & discharged twice. Escalate this to someone senior",False,,,,

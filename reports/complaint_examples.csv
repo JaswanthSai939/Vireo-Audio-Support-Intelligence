@@ -1,0 +1,48 @@
+﻿theme,ticket_id,customer_message,category,product_sku,csat_score
+Delivery / Order Issues,TK-240004,"Honestly regrettign this purchase.  the GaN charger purchased in December, order VR909673. paid on 20-12-2024, still waiting for something to show up. I already checked with neighbours. Escalate this to someone senior.",Delivery & Shipping,VA-AC-CH65,0.0
+Delivery / Order Issues,TK-240006,"Got airlite earbuds from Amazon 3 weeks back. Refund not received yet. I emailed twice. Kindly look into it. Thanks & regards,",Returns & Refunds,VA-EB-AIR,4.0
+Delivery / Order Issues,TK-240008,"Hi team, I bought Arc neckband on 27-12-2024.  My order has not been delivered yet. I checked with neighbours. Nothing changed. Very poor quality. How do I get this fixed? Regards Manish Guptta",Delivery & Shipping,VA-NB-ARC,0.0
+Hello / Helo / Hii,TK-240001,"hii
+cannot login to my account
+hello??",Account & Login,VA-EB-AIR,5.0
+Hello / Helo / Hii,TK-240002,"hello
+buzzing sound from the speaker
+??",Audio Quality,VA-HP-ST2,4.0
+Hello / Helo / Hii,TK-240003,"the page failed after I paid and now nothing shows in my account, please advise",Billing & Payments,VA-SW-FIT,1.0
+Ivr Transcript / Ivr / Transcript,TK-240005,"[IVR transcript] hi the parcel looked like it was kiked here from the warehouse, and the unit has a crack my pulse",Delivery & Shipping,VA-EB-PL1,4.0
+Ivr Transcript / Ivr / Transcript,TK-240028,"[IVR transcript] Pathetic experience honestly.  the neckband purchased recently, order VR904448. invoice not downloading. I already checked orders page. Fix this or I am posting on twitter.",Billing & Payments,VA-NB-ARC,4.0
+Ivr Transcript / Ivr / Transcript,TK-240048,[IVR transcript] locked out of my own account since recently VR892164 what do i do now?,Account & Login,VA-EB-PL1,
+Returns / Replacements,TK-240090,"Daer team,
+Got the strata 3 from vireo.in recently. Pickup scheduled but no one showed up.
+I rescheduled pickup twice. Nothing changed.
+Please advise.
+Regards",Returns & Refunds,VA-HP-ST3,4.0
+Returns / Replacements,TK-240187,"hey
+nobody came for the pickup
+my strata 2 headhpones",Returns & Refunds,VA-HP-ST2,4.0
+Returns / Replacements,TK-240338,[IVR transcript] sir ji pickup scheduled but no one showed up itna paisa diya hai,Returns & Refunds,VA-EB-PL1,0.0
+Refunds,TK-240057,"to the vireo customer care team,
+
+i am writing with reference to my order of my strata 3 headphones (vr903232) placed on december 27. need the bill with my firm's gstin on it. i have checked orders page. i requset you to process a refund to my original payment method.
+
+sincerely,
+om chauhan
+indore",Billing & Payments,VA-HP-ST3,2.0
+Refunds,TK-240212,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of Nexa Fit placed on 10 Jan. The invocie PDF link gives a 404. I have checked orders page. I request you to process a refund to my original payment method.
+
+Yours faithfully,
+Ramesh Kumar",Other,VA-SW-FIT,5.0
+Refunds,TK-240222,"Dear Sir/Madam,
+
+I am writing with reference to my order of Strata 2 placed on 12-01-2025. Payment went through but I got no order id. I have tried logging out and in. I request you to process a refund to my original payment method.
+
+Yours faithfully,
+Rohit Malhotra",Billing & Payments,VA-HP-ST2,3.0
+App / Account,TK-240069,"Hello,
+Order VR880965 (AirLite).  My dad has an old Nokia, wll the watch app run.
+Please call me on my registered number.
+Reagrds Varun George",Product Enquiry,VA-EB-AIR,5.0
+App / Account,TK-240190,"my dad has an old Nokia, will the watch app run, please advise",Product Enquiry,VA-EB-PL1,0.0
+App / Account,TK-240264,"Hello, Got the Pulse buds from vireo.in 2 weeks ago. My dad has an old Nokia, will the watch app run. I want a replacement. Thanks Ramesh Mehta",Product Enquiry,VA-EB-PL1,0.0

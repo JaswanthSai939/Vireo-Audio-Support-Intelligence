@@ -1,0 +1,54 @@
+{
+    "population": {
+        "raw_rows": 12528,
+        "unique_tickets": 11875,
+        "dataset_months": 18,
+        "dataset_quarters": 6.0
+    },
+    "financial_opportunities": {
+        "refunds": {
+            "ticket_count": 2105,
+            "rate_percent": 17.726315789473684,
+            "observed_18_month_amount": 5992919.0,
+            "observed_quarterly_amount": 998819.8333333334
+        },
+        "replacements": {
+            "ticket_count": 1202,
+            "rate_percent": 10.122105263157895,
+            "observed_18_month_cost": 2176680.0,
+            "observed_quarterly_cost": 362780.0
+        },
+        "sla": {
+            "count": 1051,
+            "rate": 8.850526315789473,
+            "cost": 367850.0
+        },
+        "transfers": {
+            "total_transfers": 1169,
+            "tickets_with_transfer": 1040,
+            "rate": 8.757894736842104,
+            "cost": 356545.0
+        }
+    },
+    "csat": {
+        "responses": 5269,
+        "average": 3.315240083507307,
+        "low_count": 1161,
+        "high_count": 2371
+    },
+    "repeat_detector_validation": {
+        "sample_size": 50,
+        "true": 33,
+        "false": 17,
+        "unclear": 0,
+        "precision_percent": 66.0,
+        "error_rate_percent": 34.0
+    },
+    "leading_financial_opportunity": {
+        "opportunity": "Refund leakage",
+        "observed_18_month_cost": 5992919.0,
+        "observed_quarterly_cost": 998819.8333333334,
+        "illustrative_15_percent_quarterly_savings": 149822.975
+    },
+    "important_note": "The 15% savings figure is an illustrative scenario, not a guaranteed business outcome."
+}

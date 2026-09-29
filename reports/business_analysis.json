@@ -1,0 +1,135 @@
+{
+    "ticket_population": {
+        "raw_rows": 12528,
+        "unique_ticket_population": 11875,
+        "duplicate_ticket_ids": 653,
+        "duplicate_rows": 1306
+    },
+    "contact_cost": {
+        "channel_specific_inr": 3248430.0,
+        "blended_290_inr": 3443750.0,
+        "channel_counts": {
+            "chat": 5161,
+            "email": 3807,
+            "voice": 1704,
+            "social": 1203
+        }
+    },
+    "sla": {
+        "breach_count": 1051,
+        "breach_rate_percent": 8.850526315789473,
+        "credit_exposure_inr": 367850.0
+    },
+    "transfers": {
+        "total_transfers": 1169,
+        "tickets_with_transfers": 1040,
+        "transfer_cost_inr": 356545.0
+    },
+    "refunds": {
+        "refund_ticket_count": 2105,
+        "refund_total_inr": 5992919.0,
+        "refund_reasons": {
+            "RETURN-QC-OK": 837,
+            "DUP-PAYMENT": 531,
+            "CANCEL": 296,
+            "DOA-REPL": 136,
+            "PRICE-ADJ": 120,
+            "LOST-TRANSIT": 91,
+            "WTY-BUYBACK": 52,
+            "GW-OTHER": 42
+        }
+    },
+    "replacements": {
+        "replacement_ticket_count": 1202,
+        "estimated_cost_inr": 2176680.0,
+        "missing_product_cost_rows": 0
+    },
+    "csat": {
+        "valid_responses": 5269,
+        "average": 3.315240083507307,
+        "low_1_to_2": 1161,
+        "high_4_to_5": 2371
+    },
+    "top_categories": [
+        {
+            "category": "Delivery & Shipping",
+            "ticket_count": 2134,
+            "percentage": 17.970526315789474
+        },
+        {
+            "category": "Other",
+            "ticket_count": 1691,
+            "percentage": 14.24
+        },
+        {
+            "category": "Billing & Payments",
+            "ticket_count": 1624,
+            "percentage": 13.67578947368421
+        },
+        {
+            "category": "Returns & Refunds",
+            "ticket_count": 1197,
+            "percentage": 10.08
+        },
+        {
+            "category": "Connectivity",
+            "ticket_count": 1131,
+            "percentage": 9.52421052631579
+        },
+        {
+            "category": "Charging & Battery",
+            "ticket_count": 955,
+            "percentage": 8.042105263157895
+        },
+        {
+            "category": "App & Firmware",
+            "ticket_count": 822,
+            "percentage": 6.922105263157895
+        },
+        {
+            "category": "Audio Quality",
+            "ticket_count": 792,
+            "percentage": 6.669473684210526
+        },
+        {
+            "category": "Warranty & Repair",
+            "ticket_count": 620,
+            "percentage": 5.221052631578947
+        },
+        {
+            "category": "Product Enquiry",
+            "ticket_count": 593,
+            "percentage": 4.9936842105263155
+        }
+    ],
+    "business_opportunities": [
+        {
+            "opportunity": "Refunds",
+            "metric": "Refunded tickets",
+            "count": 2105,
+            "estimated_cost_inr": 5992919.0,
+            "basis": "Exported refund amount"
+        },
+        {
+            "opportunity": "Replacements",
+            "metric": "Replacement tickets",
+            "count": 1202,
+            "estimated_cost_inr": 2176680.0,
+            "basis": "Product unit cost + ₹340 logistics"
+        },
+        {
+            "opportunity": "SLA breach credits",
+            "metric": "First-response breaches",
+            "count": 1051,
+            "estimated_cost_inr": 367850.0,
+            "basis": "₹350 automatic credit per breach"
+        },
+        {
+            "opportunity": "Internal transfers",
+            "metric": "Team hand-offs",
+            "count": 1169,
+            "estimated_cost_inr": 356545.0,
+            "basis": "₹305 per internal transfer"
+        }
+    ]
+}

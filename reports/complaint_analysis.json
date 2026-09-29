@@ -1,0 +1,226 @@
+{
+    "method": {
+        "vectorization": "TF-IDF",
+        "clustering": "KMeans",
+        "n_clusters": 12,
+        "random_state": 42
+    },
+    "population": {
+        "tickets": 11875
+    },
+    "themes": [
+        {
+            "theme": "Delivery / Order Issues",
+            "tickets": 7221,
+            "avg_csat": 3.315657358016944,
+            "refund_tickets": 1318,
+            "refund_amount_inr": 3759802.0,
+            "replacement_tickets": 685,
+            "transfer_tickets": 615,
+            "total_transfers": 696,
+            "ticket_share_percent": 60.80842105263158,
+            "refund_rate_percent": 18.25231962332087,
+            "replacement_rate_percent": 9.486220745049161,
+            "transfer_rate_percent": 8.516825924387204
+        },
+        {
+            "theme": "Hello / Helo / Hii",
+            "tickets": 3066,
+            "avg_csat": 3.304860088365243,
+            "refund_tickets": 460,
+            "refund_amount_inr": 1236956.0,
+            "replacement_tickets": 367,
+            "transfer_tickets": 300,
+            "total_transfers": 328,
+            "ticket_share_percent": 25.818947368421053,
+            "refund_rate_percent": 15.003261578604043,
+            "replacement_rate_percent": 11.969993476842792,
+            "transfer_rate_percent": 9.784735812133071
+        },
+        {
+            "theme": "Ivr Transcript / Ivr / Transcript",
+            "tickets": 841,
+            "avg_csat": 3.404199475065617,
+            "refund_tickets": 151,
+            "refund_amount_inr": 415071.0,
+            "replacement_tickets": 96,
+            "transfer_tickets": 61,
+            "total_transfers": 72,
+            "ticket_share_percent": 7.082105263157895,
+            "refund_rate_percent": 17.954815695600477,
+            "replacement_rate_percent": 11.414982164090368,
+            "transfer_rate_percent": 7.253269916765754
+        },
+        {
+            "theme": "Returns / Replacements",
+            "tickets": 356,
+            "avg_csat": 2.8866666666666667,
+            "refund_tickets": 134,
+            "refund_amount_inr": 437749.0,
+            "replacement_tickets": 27,
+            "transfer_tickets": 28,
+            "total_transfers": 32,
+            "ticket_share_percent": 2.997894736842105,
+            "refund_rate_percent": 37.640449438202246,
+            "replacement_rate_percent": 7.584269662921349,
+            "transfer_rate_percent": 7.865168539325842
+        },
+        {
+            "theme": "Refunds",
+            "tickets": 284,
+            "avg_csat": 3.3958333333333335,
+            "refund_tickets": 42,
+            "refund_amount_inr": 143341.0,
+            "replacement_tickets": 27,
+            "transfer_tickets": 30,
+            "total_transfers": 34,
+            "ticket_share_percent": 2.391578947368421,
+            "refund_rate_percent": 14.788732394366196,
+            "replacement_rate_percent": 9.507042253521126,
+            "transfer_rate_percent": 10.56338028169014
+        },
+        {
+            "theme": "App / Account",
+            "tickets": 107,
+            "avg_csat": 3.9591836734693877,
+            "refund_tickets": 0,
+            "refund_amount_inr": 0.0,
+            "replacement_tickets": 0,
+            "transfer_tickets": 6,
+            "total_transfers": 7,
+            "ticket_share_percent": 0.9010526315789474,
+            "refund_rate_percent": 0.0,
+            "replacement_rate_percent": 0.0,
+            "transfer_rate_percent": 5.607476635514018
+        }
+    ],
+    "cluster_terms": {
+        "0": [
+            "run",
+            "dad",
+            "nokia",
+            "app run",
+            "dad old",
+            "old nokia",
+            "watch app",
+            "nokia watch"
+        ],
+        "1": [
+            "delivered",
+            "order delivered",
+            "tracking",
+            "delivered tracking",
+            "updating",
+            "tracking updating",
+            "order",
+            "package delivered"
+        ],
+        "2": [
+            "want",
+            "want replacement",
+            "replacement",
+            "cancel",
+            "refund",
+            "replacement refund",
+            "cancel order",
+            "ordered"
+        ],
+        "3": [
+            "issue",
+            "product",
+            "expected",
+            "purchased",
+            "tried",
+            "order purchased",
+            "purchased issue",
+            "order"
+        ],
+        "4": [
+            "hello",
+            "helo",
+            "hii",
+            "waiting",
+            "hi",
+            "hey",
+            "pulse",
+            "help"
+        ],
+        "5": [
+            "received",
+            "haven",
+            "haven received",
+            "received order",
+            "order",
+            "order checked",
+            "refund received",
+            "checked"
+        ],
+        "6": [
+            "request",
+            "placed",
+            "reference",
+            "writing",
+            "reference order",
+            "writing reference",
+            "order",
+            "sir madam"
+        ],
+        "7": [
+            "week",
+            "need",
+            "sorted",
+            "need sorted",
+            "sorted week",
+            "delivery",
+            "tracking said",
+            "said delivery"
+        ],
+        "8": [
+            "ivr transcript",
+            "ivr",
+            "transcript",
+            "transcript hi",
+            "pulse",
+            "transcript hello",
+            "hi",
+            "transcript hey"
+        ],
+        "9": [
+            "method",
+            "process",
+            "payment method",
+            "original",
+            "request process",
+            "process refund",
+            "refund original",
+            "original payment"
+        ],
+        "10": [
+            "bought",
+            "vireo",
+            "pulse",
+            "got",
+            "changed",
+            "hi",
+            "ordered",
+            "thanks"
+        ],
+        "11": [
+            "pickup",
+            "scheduled",
+            "showed",
+            "scheduled showed",
+            "pickup scheduled",
+            "pickup happened",
+            "happened",
+            "rescheduled"
+        ]
+    },
+    "limitations": [
+        "Unsupervised clusters require human interpretation.",
+        "Theme labels are heuristic names generated from top terms.",
+        "Historical association does not prove causation.",
+        "No paid LLM/API calls were used.",
+        "Some messages may contain multiple issues."
+    ]
+}
